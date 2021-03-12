@@ -3,12 +3,14 @@
 - 原文
     - https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203
 
-
 ## DP-203：Data Engineering on Microsoft Azure (beta）とは
 
-Azure Data Engineers integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions.
-
-Candidates for Exam DP-203: Data Engineering on Microsoft Azure must have solid knowledge of data processing languages, such as SQL, Python, or Scala, and they need to understand parallel processing and data architecture patterns.
+```
+Azureデータエンジニアは、分析ソリューション構築に適した構造で、統合?（integrate）、変換、統合?（consolidate）することで
+さまざまな構造化および非構造化データシステムから構造化します。
+試験DP-203の候補者：「Data Engineering on Microsoft Azure」では、SQL、Python、Scalaなどのデータ処理言語の
+確固たる知識を持ち、並列処理やデータアーキテクチャパターンを理解している必要があります。
+```
 
 ## 評価されるスキル
 
